@@ -8,10 +8,9 @@
 - 🎓 BSc Graduate from Informatics Institute of Technology (IIT).
 - 🚀 Currently building scalable solutions as an Associate Software Engineer @ Onezerro.
 - 💼 Open to freelance projects that challenge my creativity.
-- 🌍 Dedicated to crafting intuitive user experiences and solving complex problems.
-- 🔭 I'm currently working on developing an Airline booking system called findyourfares.com
-- 🌱 I'm currently learning **.Net,Springboot and React Native frameworks**
-- 👯 I'm looking to collaborate on **Open source projects**
+- 🔭 Currently working on developing an Airline booking system called findyourfares.com
+- 🌱 Currently learning **.Net,Springboot and React Native frameworks**
+- 👯 Looking to collaborate on **Open source projects**
 - 📫 How to reach me : **www.odhilweerakoon@gmail.com**
 - ⚡ Fun fact :  **When I'm not coding, I'm usually wearing out my WASD keys.**
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1LTWP6vFWfq4XS_Nfj552bkHfyFM-H_QN/view?usp=sharing](https://drive.google.com/file/d/1LTWP6vFWfq4XS_Nfj552bkHfyFM-H_QN/view?usp=sharing)**
