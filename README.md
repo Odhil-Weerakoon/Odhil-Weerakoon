@@ -13,7 +13,7 @@
 - 👯 Looking to collaborate on **Open source projects**
 - 📫 How to reach me : **www.odhilweerakoon@gmail.com**
 - ⚡ Fun fact :  **When I'm not coding, I'm usually wearing out my WASD keys.**
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1LTWP6vFWfq4XS_Nfj552bkHfyFM-H_QN/view?usp=sharing](https://drive.google.com/file/d/1LTWP6vFWfq4XS_Nfj552bkHfyFM-H_QN/view?usp=sharing)**
+- 📄 Know about my experiences **[https://drive.google.com/file/d/1LTWP6vFWfq4XS_Nfj552bkHfyFM-H_QN/view?usp=sharing](https://drive.google.com/file/d/12ZNHTmHF-F2EQJxB7xAUyMk25lhwP_Cj/view?usp=drive_link)**
 
 <h3 align="left">🌐 Socials:</h3>
 <p align="left">
