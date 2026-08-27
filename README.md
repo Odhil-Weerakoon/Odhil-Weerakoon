@@ -55,6 +55,16 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 </p>
 
+<h3 align="left">💸 Support My Work 🤝</h3>
+
+<p align="left">If my open-source projects, mobile apps, or web platforms have helped or inspired you, a coffee goes a long way in supporting my next build. Thank you! ☕💻</p>
+
+<p align="left">
+  <a href="https://buymeacoffee.com/odhil" target="_blank">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+</p>
+
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p align="center">
