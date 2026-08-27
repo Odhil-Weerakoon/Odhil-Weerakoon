@@ -31,23 +31,28 @@
 
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/Odhil-Weerakoon/Odhil-Weerakoon/main/profile-summary-card-output/2077/0-profile-details.svg" alt="Profile Details" width="48%" />
+    <img src="https://raw.githubusercontent.com/Odhil-Weerakoon/Odhil-Weerakoon/main/profile-summary-card-output/2077/0-profile-details.svg" alt="Profile Details" width="100%" />
   </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/Odhil-Weerakoon/Odhil-Weerakoon/main/profile-summary-card-output/2077/1-repos-per-language.svg" alt="Repo Languages" width="48%" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/Odhil-Weerakoon/Odhil-Weerakoon/main/profile-summary-card-output/2077/2-most-commit-language.svg" alt="Commit Languages" width="48%" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://raw.githubusercontent.com/Odhil-Weerakoon/Odhil-Weerakoon/main/profile-summary-card-output/2077/3-stats.svg" alt="GitHub Stats" width="48%" />
   </a>
-</p>
-<p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/Odhil-Weerakoon/Odhil-Weerakoon/main/profile-summary-card-output/2077/1-repos-per-language.svg" alt="Repo Languages" width="32%" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/Odhil-Weerakoon/Odhil-Weerakoon/main/profile-summary-card-output/2077/2-most-commit-language.svg" alt="Commit Languages" width="32%" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/Odhil-Weerakoon/Odhil-Weerakoon/main/profile-summary-card-output/2077/4-productive-time.svg" alt="Commits by Time" width="32%" />
+    <img src="https://raw.githubusercontent.com/Odhil-Weerakoon/Odhil-Weerakoon/main/profile-summary-card-output/2077/4-productive-time.svg" alt="Commits by Time" width="48%" />
   </a>
 </p>
+
 
 
 
