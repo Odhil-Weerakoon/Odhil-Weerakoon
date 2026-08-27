@@ -30,14 +30,15 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Odhil-Weerakoon/Odhil-Weerakoon/main/profile-summary-cards-output/dracula/0-profile-details.svg" alt="Profile Details" width="48%" />
-  <img src="https://raw.githubusercontent.com/Odhil-Weerakoon/Odhil-Weerakoon/main/profile-summary-cards-output/dracula/1-github-stats.svg" alt="GitHub Stats" width="48%" />
+  <img src="profile-summary-cards-output/dracula/0-profile-details.svg" alt="Profile Details" width="48%" />
+  <img src="profile-summary-cards-output/dracula/1-github-stats.svg" alt="GitHub Stats" width="48%" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Odhil-Weerakoon/Odhil-Weerakoon/main/profile-summary-cards-output/dracula/2-repo-languages.svg" alt="Repo Languages" width="32%" />
-  <img src="https://raw.githubusercontent.com/Odhil-Weerakoon/Odhil-Weerakoon/main/profile-summary-cards-output/dracula/3-commit-languages.svg" alt="Commit Languages" width="32%" />
-  <img src="https://raw.githubusercontent.com/Odhil-Weerakoon/Odhil-Weerakoon/main/profile-summary-cards-output/dracula/4-commits-by-time.svg" alt="Commits by Time" width="32%" />
+  <img src="profile-summary-cards-output/dracula/2-repo-languages.svg" alt="Repo Languages" width="32%" />
+  <img src="profile-summary-cards-output/dracula/3-commit-languages.svg" alt="Commit Languages" width="32%" />
+  <img src="profile-summary-cards-output/dracula/4-commits-by-time.svg" alt="Commits by Time" width="32%" />
 </p>
+
 
 
 
