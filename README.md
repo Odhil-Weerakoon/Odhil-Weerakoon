@@ -43,11 +43,3 @@
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=Odhil-Weerakoon&theme=radical" alt="GitHub Streak" />
 </p>
-
-
-
-
-
-
-
-
