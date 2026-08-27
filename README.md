@@ -1,11 +1,3 @@
-To get that highly structured, professional look from your screenshots, we need to do two things:
-1. Tech Stack: Swap out the square skillicons for standard img.shields.io badges using the for-the-badge styling. This creates those uniform, rectangular colored tags you saw in the screenshot.
-2. GitHub Stats Layout: Adjust the HTML width percentages. We will set the Profile Details banner to take up about 66% of the top row, squeeze the Stats card next to it at 33%, and then place the remaining three charts neatly in a row below them at 32% each.
-Here is your fully updated, complete script. You can copy and paste this entire block to replace your current README:
-# Hi 👋, I'm Odhil Weerakoon
-
-<h3 align="left">ℹ️ About Me:</h3>
-
 ### Associate Software Engineer @Onezerro
 
 - 💻 Full-stack and Mobile App Developer
