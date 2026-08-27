@@ -29,17 +29,15 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Odhil-Weerakoon&theme=dracula" alt="Odhil-Weerakoon Trophy" />
-  </a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Odhil-Weerakoon/Odhil-Weerakoon/main/profile-summary-cards-output/dracula/0-profile-details.svg" alt="Profile Details" width="48%" />
+  <img src="https://raw.githubusercontent.com/Odhil-Weerakoon/Odhil-Weerakoon/main/profile-summary-cards-output/dracula/1-github-stats.svg" alt="GitHub Stats" width="48%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Odhil-Weerakoon/Odhil-Weerakoon/main/profile-summary-cards-output/dracula/2-repo-languages.svg" alt="Repo Languages" width="32%" />
+  <img src="https://raw.githubusercontent.com/Odhil-Weerakoon/Odhil-Weerakoon/main/profile-summary-cards-output/dracula/3-commit-languages.svg" alt="Commit Languages" width="32%" />
+  <img src="https://raw.githubusercontent.com/Odhil-Weerakoon/Odhil-Weerakoon/main/profile-summary-cards-output/dracula/4-commits-by-time.svg" alt="Commits by Time" width="32%" />
 </p>
 
-<p align="left">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Odhil-Weerakoon&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Langs" />
-  <img src="https://github-stats-extended.vercel.app/api?username=Odhil-Weerakoon&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Odhil-Weerakoon&theme=radical)
 
 
