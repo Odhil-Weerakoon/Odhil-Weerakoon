@@ -31,7 +31,7 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Odhil-Weerakoon&theme=radical" alt="Odhil-Weerakoon Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Odhil-Weerakoon&theme=dracula" alt="Odhil-Weerakoon Trophy" />
   </a>
 </p>
 
@@ -40,6 +40,5 @@
   <img src="https://github-stats-extended.vercel.app/api?username=Odhil-Weerakoon&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=Odhil-Weerakoon&theme=radical" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=Odhil-Weerakoon&theme=radical)
+
