@@ -30,25 +30,24 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p align="left">
-  <a href="https://github-profile-trophy.vercel.app/">
-    <img src="https://github-profile-trophy.vercel.app/?username=Odhil-Weerakoon&theme=radical" alt="Odhil-Weerakoon" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Odhil-Weerakoon&theme=radical" alt="Odhil-Weerakoon Trophy" />
   </a>
 </p>
 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=Odhil-Weerakoon&show_icons=true&locale=en&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Odhil-Weerakoon&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Odhil-Weerakoon&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+</p>
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Odhil-Weerakoon&show_icons=true&locale=en&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Odhil-Weerakoon&theme=radical)
-
-
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=Odhil-Weerakoon&theme=radical" alt="GitHub Streak" />
+</p>
 
 
 
-<p><img align="left" src="https://github-stats-extended.vercel.app/api/top-langs?username=Odhil-Weerakoon&show_icons=true&locale=en&layout=compact" alt="Odhil-Weerakoon" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-stats-extended.vercel.app/api?username=Odhil-Weerakoon&show_icons=true&locale=en" alt="Odhil-Weerakoon" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Odhil-Weerakoon" alt="Odhil-Weerakoon" /></p>
+
 
 
