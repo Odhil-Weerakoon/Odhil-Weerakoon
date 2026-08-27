@@ -45,13 +45,10 @@
 
 
 
+<p><img align="left" src="https://github-stats-extended.vercel.app/api/top-langs?username=Odhil-Weerakoon&show_icons=true&locale=en&layout=compact" alt="Odhil-Weerakoon" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-stats-extended.vercel.app/api?username=Odhil-Weerakoon&show_icons=true&locale=en" alt="Odhil-Weerakoon" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Odhil-Weerakoon" alt="Odhil-Weerakoon" /></p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Odhil-Weerakoon&show_icons=true&locale=en&layout=compact" alt="Odhil-Weerakoon" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Odhil-Weerakoon&show_icons=true&locale=en" alt="Odhil-Weerakoon" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Odhil-Weerakoon&" alt="Odhil-Weerakoon" /></p>
 
