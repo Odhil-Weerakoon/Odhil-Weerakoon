@@ -29,16 +29,9 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Odhil-Weerakoon&theme=dracula" alt="Odhil-Weerakoon Trophy" />
-  </a>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=odhil-weerakoon&show_icons=true&locale=en&layout=compact" alt="odhil-weerakoon" /></p>
 
-<p align="left">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Odhil-Weerakoon&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Langs" />
-  <img src="https://github-stats-extended.vercel.app/api?username=Odhil-Weerakoon&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=odhil-weerakoon&show_icons=true&locale=en" alt="odhil-weerakoon" /></p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Odhil-Weerakoon&theme=radical)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=odhil-weerakoon&" alt="odhil-weerakoon" /></p>
 
