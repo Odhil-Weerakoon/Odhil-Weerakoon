@@ -2,11 +2,11 @@
 
 <h3 align="left">ℹ️ About Me:</h3>
 
-### Associate Software Engineer @Onezerro
+### Software Engineer @Tryonics
 
 - 💻 Full-stack and Mobile App Developer
 - 🎓 BSc Graduate from Informatics Institute of Technology (IIT).
-- 🚀 Currently building scalable solutions as an Associate Software Engineer @ Onezerro.
+- 🚀 Currently building scalable solutions as an Software Engineer @ Tryonics.
 - 💼 Open to freelance projects that challenge my creativity.
 - 🔭 Currently working on developing an Airline booking system called findyourfares.com
 - 🌱 Currently learning **.Net, Springboot and React Native frameworks**
